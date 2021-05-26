@@ -1,0 +1,36 @@
+*********************************************************************************************************
+-----------------------------------PIZZA DELIVERY OPTIMAL PATH FINDER------------------------------------
+*********************************************************************************************************
+Enter The Number OF Locations :
+Enter The Name of Locations :
+Enter The Distance Between Location Bidholi And Kandoli :
+Enter The Distance Between Location Bidholi And Prem_Nagar :
+Enter The Distance Between Location Bidholi And Clement_Town :
+Enter The Distance Between Location Kandoli And Bidholi :
+Enter The Distance Between Location Kandoli And Prem_Nagar :
+Enter The Distance Between Location Kandoli And Clement_Town :
+Enter The Distance Between Location Prem_Nagar And Bidholi :
+Enter The Distance Between Location Prem_Nagar And Kandoli :
+Enter The Distance Between Location Prem_Nagar And Clement_Town :
+Enter The Distance Between Location Clement_Town And Bidholi :
+Enter The Distance Between Location Clement_Town And Kandoli :
+Enter The Distance Between Location Clement_Town And Prem_Nagar :
+
+
+
+Distance Matrix :
+
+[ 0	40	90	120 ]
+[ 40	0	50	80 ]
+[ 90	50	0	30 ]
+[ 120	80	30	0 ]
+
+Press  0 TO Select Starting Location As : Bidholi
+Press  1 TO Select Starting Location As : Kandoli
+Press  2 TO Select Starting Location As : Prem_Nagar
+Press  3 TO Select Starting Location As : Clement_Town
+
+The Best Path For Pizza Delivery :
+Prem_Nagar ---> Clement_Town ---> Kandoli ---> Bidholi ---> Prem_Nagar
+
+*********************************************************************************************************
