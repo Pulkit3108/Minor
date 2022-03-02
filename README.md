@@ -1,1 +1,1 @@
-# Minor
+### This repository contains my Minor Projects.
