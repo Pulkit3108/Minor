@@ -1,0 +1,8 @@
+Minimum Support Count: 2
+Time Cost: 10 milliseconds
+Frequent Patterns Generated: 
+--------------------------------------------------
+egg bread 	2
+milk bread 	2
+bread 	4
+--------------------------------------------------
