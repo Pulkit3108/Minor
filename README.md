@@ -1,4 +1,5 @@
-### This repository contains my Minor Projects.
+## This repository contains my Minor Projects.
+
 > [**The Travelling Salesman Problem**](https://github.com/Pulkit3108/Minor-Projects/tree/main/The%20Travelling%20Salesman%20Problem)
 
 This folder contains the code of The Travelling Salesman Problem (TSP) using Dynamic Programming and File Handling which is used to find the optimal path for the Pizza Delivery Service. The user can enter input manually or in the form of a .txt file. It is written in **C Programming Language**.
